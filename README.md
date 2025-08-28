@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14b2c4c2-4a11-4bea-85de-fa660dfe591e" alt="InzelSec Logo" width="180"/>
-</p>
-
-<h1 align="center">Hi, I'm InzelSec 👋</h1>
-
-<p align="center">
   🎓 Software Engineering Student • 🛡️ Offensive Security Enthusiast • 💻 Pentesting & Tools
 </p>
 
@@ -15,15 +9,6 @@
 I’m a Software Engineering student and an enthusiast of **penetration testing and offensive security**.  
 I share **CTF writeups, security walkthroughs, scripts, and tools in Python and Bash**, creating technical content to help others learn and grow in the field.  
 On the software side, I also develop **projects and applications**, exploring software engineering practices.
-
----
-
-## 🛠️ My Projects
-
-- 🔎 [ICMP Ping](https://github.com/InzelSec/icmp-ping) → minimal Python implementation of `ping`
-- 📡 [Port Scanner](https://github.com/InzelSec/port-scanner) → TCP connect() scanner with `-T1..-T5`
-- 💻 [Reverse Shell Listener](https://github.com/InzelSec/reverse-shell-listener) → Python netcat-like listener
-- 🔐 [WP User Enum](https://github.com/InzelSec/wp-user-enum) → Bash script for WordPress username enumeration  
 
 ---
 
