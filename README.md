@@ -8,6 +8,6 @@ On the software side, I also develop **projects and applications**, exploring so
   <a href="https://linkedin.com/in/alex-c-insel-9674b0288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@inzelsec"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:inzelsec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/InzelSec"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/InzelSec"><img src="https://img.shields.io/badge/TryHackMe-D14836?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 </p>
