@@ -1,8 +1,7 @@
 ## Hello
 
-I’m a Software Engineering student and a self-taught enthusiast of **penetration testing and offensive security**.  
-I share **CTF walkthroughs, articles, scripts and tools in Python and Bash**, creating technical content to help others learn and grow in the field.  
-On the software side, I also develop **projects and applications**, exploring software engineering practices.
+Sou graduando em Engenharia de Software, Aspirante a Oficial da Reserva (R/2) do Exército Brasileiro e entusiasta de Cibersegurança, com foco em Segurança Ofensiva e Pentest.
+Atuo de forma prática na área, resolvendo CTFs na TryHackMe, desenvolvendo e publicando ferramentas próprias, além de escrever artigos técnicos e write-ups de CTFs, documentando processos, técnicas e aprendizados. Também desenvolvo projetos de software, unindo programação e segurança para criar soluções aplicáveis a cenários reais.
 
 <p align="center">
   <a href="https://inzelsec.github.io/portfolio/">
